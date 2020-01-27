@@ -7,18 +7,20 @@ This project has been built in [React native Expo](https://docs.expo.io), [Nativ
 
 
 ## Global Setting
-...
+Firstly, nodejs should be installed.
+
 npm install -g expo-cli
 npm install -g yarn
-...
+
 
 ## Install
-...
+
 yarn install
-...
+
 
 ## Run development server
-...
+First, you need to run android or ios phone (or emulator)
+
 yarn start
-...
+
 
