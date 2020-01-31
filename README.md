@@ -10,6 +10,7 @@ This project has been built in [React native Expo](https://docs.expo.io), [Nativ
 Firstly, nodejs should be installed.
 
 npm install -g expo-cli
+
 npm install -g yarn
 
 
