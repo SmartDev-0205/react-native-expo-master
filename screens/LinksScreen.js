@@ -19,6 +19,8 @@ class LinksScreen extends Component {
          * we just wanted to provide you with some helpful links.
          */}
          <View>
+      <View>
+      </View>
            <Text>Currently Redux valud is </Text>
          </View>
          <View>
